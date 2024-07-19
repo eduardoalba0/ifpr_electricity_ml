@@ -1,4 +1,4 @@
-data;ano;mes;chuva;radsolar;tempmed;umidrel;velvento;tempmax_abs;tempmax_med;tempmax_med_abs;tempmin_abs;tempmin_med;tempmin_med_abs;velventomax_abs;velventomax_med;velventomax_med_abs
+date;year;month;rain;solarrad;meantemp;relumid;windvel;maxtemp_abs;maxtemp_mean;maxtemp_mean_abs;mintemp_abs;mintemp_mean;mintemp_mean_abs;windmaxvel_abs;windmaxvel_mean;windmaxvel_mean_abs
 01/01/2018;2018;1;186.4;126694.00;19.71;91.43;2.82;29.3;20.34;25.57;9.7;19.15;16.09;14.5;5.56;9.85
 01/02/2018;2018;2;82.00;131815.00;19.21;85.94;2.71;29.6;19.9;25.78;11.3;18.57;14.86;12.1;5.34;8.71
 01/03/2018;2018;3;192.8;107000.00;20.08;90.00;2.18;30.9;20.76;26.64;12.1;19.45;15.83;14.4;4.43;8.38
