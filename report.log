@@ -34,3 +34,15 @@ task: <Task pending name='Task-2' coro=<Kernel.poll_control_queue() running at /
 2024-07-21 22:53:51,306 - pyswarms.single.global_best - INFO - Optimize for 3 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
 2024-07-21 23:04:02,584 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 3092.0, best pos: [2.65642788e+02 9.05155639e+01 4.11608847e+00 5.21897153e-01
  2.44629210e-01]
+2024-07-27 12:59:12,470 - pyswarms.single.global_best - INFO - Optimize for 25 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-07-27 13:41:00,896 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 3430.0, best pos: [145.01300401 202.21472665  12.5330681    2.04313102]
+2024-07-27 14:14:59,306 - pyswarms.single.global_best - INFO - Optimize for 25 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-07-27 14:56:24,812 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 3483.0, best pos: [121.91575119 136.61415028  12.67157023  13.15029715]
+2024-07-27 15:36:00,742 - pyswarms.single.global_best - INFO - Optimize for 25 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-07-27 16:08:14,372 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 3545.0, best pos: [ 94.2121479  185.50940456  34.36258857  15.96458396]
+2024-07-27 18:10:57,386 - pyswarms.single.global_best - INFO - Optimize for 25 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-07-27 18:26:31,078 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 3864.0, best pos: [1.46496807e+03 8.02186820e-01 1.96283282e+00]
+2024-07-27 18:36:41,184 - pyswarms.single.global_best - INFO - Optimize for 25 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-07-27 18:50:43,673 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 3878.0, best pos: [1.58642380e+03 4.62560922e-02 1.79520567e+00]
+2024-07-27 18:59:01,463 - pyswarms.single.global_best - INFO - Optimize for 25 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-07-27 19:12:57,816 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 3877.0, best pos: [1.56890637e+03 2.50906181e-01 1.63078922e+00]
