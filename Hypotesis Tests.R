@@ -46,7 +46,7 @@ adf_test@testreg
 adf_test@cval 
 summary(adf_test)@teststat
 
-# |-2.083| > |-3.45|, 
+# |-2.712 | > |-3.45|, 
 # Not reject H0, 
 # the data has a unit root and is non-stationary
 
