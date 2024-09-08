@@ -1,0 +1,2 @@
+#;Filters;Kernel_Size;Pool;Dense;Epochs;Fitness;Activation;Base Seed
+0;272;12;4;429;260;2508;softplus;1000

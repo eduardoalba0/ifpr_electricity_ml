@@ -28,3 +28,4 @@
 2024-09-06 01:00:27,566 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 1241.0, best pos: [4.64219871e+02 2.54666318e-01 1.68579448e+00 3.60550208e-01]
 2024-09-06 07:57:46,681 - pyswarms.single.global_best - INFO - Optimize for 25 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.5}
 2024-09-06 08:14:37,994 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 1241.0, best pos: [4.64219871e+02 2.54666318e-01 1.68579448e+00 3.60550208e-01]
+2024-09-08 13:02:24,641 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.5}
